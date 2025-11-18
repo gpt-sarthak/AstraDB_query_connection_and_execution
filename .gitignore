@@ -1,0 +1,14 @@
+## Python Virtual Environment
+# Virtual environment folder, used by default with 'venv' or 'conda'
+venv/
+.venv/
+
+## Byte-compiled / Optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+## OS and Editor Metadata
+.DS_Store
+.vscode/
+.idea/
